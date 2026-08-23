@@ -407,5 +407,3 @@ CYANEX1702 :: TERMINAL STILL ACTIVE
 </a>
 
 </div>
-#   C y a n e x 1 7 0 2  
- 

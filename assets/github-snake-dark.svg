@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="150" viewBox="0 0 960 150">
+<style>
+text{font-family:"Courier New",monospace}
+@keyframes blink{50%{opacity:.25}}
+.b{animation:blink 1s step-end infinite}
+</style>
+<rect width="960" height="150" fill="#020703"/>
+<rect x="8" y="8" width="944" height="134" fill="none" stroke="#173A1D"/>
+<text x="28" y="34" fill="#7AFF8A" font-size="14" font-weight="700">CONTRIBUTION SNAKE / AWAITING FIRST ACTION RUN</text>
+<path d="M70 82 H250 V105 H430 V64 H610 V103 H790" fill="none" stroke="#1F8F35" stroke-width="13" stroke-linecap="square"/>
+<rect x="790" y="96" width="14" height="14" fill="#D6FFD9"/>
+<rect class="b" x="844" y="73" width="10" height="10" fill="#DADC74"/>
+<text x="28" y="130" fill="#456D4C" font-size="10">RUN :: ACTIONS / GENERATE MATRIX CONTRIBUTION SNAKE</text>
+</svg>

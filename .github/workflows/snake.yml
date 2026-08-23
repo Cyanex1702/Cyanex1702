@@ -1,0 +1,42 @@
+name: Generate Matrix Contribution Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 19 * * *"
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v5
+
+      - name: Generate phosphor contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-snake.svg?palette=github-light&color_snake=%231F8F35&color_dots=%23EBEDF0,%23C8FACC,%237AFF8A,%2331C94D,%23126020
+            assets/github-snake-dark.svg?palette=github-dark&color_snake=%237AFF8A&color_dots=%23020703,%230B2B10,%23135C20,%231F8F35,%237AFF8A
+
+      - name: Commit generated snake assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-snake.svg assets/github-snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "Contribution snake is already current."
+          else
+            git commit -m "chore: refresh matrix contribution snake"
+            git push
+          fi

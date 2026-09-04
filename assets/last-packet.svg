@@ -20,10 +20,10 @@ text { font-family:"Courier New",monospace; }
 <text x="32" y="112" class="label">EVENT</text><text x="245" y="112" class="value">PUSH</text>
 <text x="32" y="142" class="label">BRANCH</text><text x="245" y="142" class="value">MAIN</text>
 <text x="32" y="172" class="label">COMMITS</text><text x="245" y="172" class="value">0</text>
-<text x="500" y="82" class="label">AGE</text><text x="725" y="82" class="value">12D 00H</text>
+<text x="500" y="82" class="label">AGE</text><text x="725" y="82" class="value">11H 04M</text>
 <text x="500" y="112" class="label">VISIBILITY</text><text x="725" y="112" class="value">PUBLIC</text>
 <text x="500" y="142" class="label">BUS</text><text x="725" y="142" class="value blink">RECEIVED</text>
-<text x="32" y="214" class="dim">TIMESTAMP :: 2026-08-23T10:35:55Z</text>
+<text x="32" y="214" class="dim">TIMESTAMP :: 2026-09-04T05:14:36Z</text>
 
 <rect class="scan" x="10" y="0" width="940" height="2" fill="#7AFF8A"/>
 </svg>

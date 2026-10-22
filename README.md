@@ -1,409 +1,164 @@
-<!-- CYANEX1702 // MATRIX-ANALOG TERMINAL PROFILE // ULTIMATE -->
+<!-- CYANEX1702 // SIGNAL NOIR · PERSONAL EDITION -->
+<!-- An introduction to the person and their technical capabilities — no project showcases. -->
 
 <div align="center">
 
-<img src="./assets/cyanex-terminal-v3.gif" width="100%" alt="CYANEX1702 Matrix analog CRT terminal" />
-
-<img src="./assets/packet-bus-v3.gif" width="100%" alt="Animated CYANEX1702 packet bus" />
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=17&duration=2250&pause=650&color=7AFF8A&center=true&vCenter=true&repeat=true&random=false&width=900&height=48&lines=%3E+BOOT+CYANEX1702;%3E+MOUNT+%2FDEV%2FGENERATIVE_AI;%3E+ATTACH+VISION_BUS+%2B+RAG_CONTEXT;%3E+SPAWN+LOCAL_FIRST_RUNTIME;%3E+BUILD+SOMETHING+THAT+ACTUALLY+SHIPS"
-    alt="Animated terminal commands"
-  />
-</a>
+<img src="./assets/hero-signal.gif" width="100%" alt="CYANEX1702: animated cybernetic terminal with an orbital signal interface, introducing an AI and native software builder" />
 
 <br/>
 
-<a href="#projects"><img src="https://img.shields.io/badge/%5B01%5D_PROJECTS-071009?style=for-the-badge&logo=github&logoColor=7AFF8A&labelColor=020603" alt="Projects" /></a>
-<a href="#stack"><img src="https://img.shields.io/badge/%5B02%5D_LSHW-071009?style=for-the-badge&logo=gnubash&logoColor=7AFF8A&labelColor=020603" alt="Stack" /></a>
-<a href="#snake"><img src="https://img.shields.io/badge/%5B03%5D_SNAKE.DAEMON-071009?style=for-the-badge&logo=githubactions&logoColor=7AFF8A&labelColor=020603" alt="Snake daemon" /></a>
-<a href="#telemetry"><img src="https://img.shields.io/badge/%5B04%5D_TELEMETRY-071009?style=for-the-badge&logo=prometheus&logoColor=7AFF8A&labelColor=020603" alt="Telemetry" /></a>
-<a href="#topology"><img src="https://img.shields.io/badge/%5B05%5D_TOPOLOGY-071009?style=for-the-badge&logo=linux&logoColor=7AFF8A&labelColor=020603" alt="Topology" /></a>
+<sub><b>NODE 17.02</b> &nbsp;·&nbsp; AI SYSTEMS &nbsp;·&nbsp; CREATIVE ENGINEERING &nbsp;·&nbsp; LOCAL-FIRST</sub>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Cyanex1702&label=TERMINAL+HITS&color=1f8f35&style=flat-square" alt="Profile views" />
+<a href="#whoami"><img src="./assets/nav-whoami.svg" alt="Open the whoami section" /></a>
+<a href="#mindset"><img src="./assets/nav-mindset.svg" alt="Open the mindset section" /></a>
+<a href="#specs"><img src="./assets/nav-specs.svg" alt="Open the specs section" /></a>
+<a href="#principles"><img src="./assets/nav-principles.svg" alt="Open the principles section" /></a>
+<a href="#signal"><img src="./assets/nav-signal.svg" alt="Open the signal section" /></a>
 
 </div>
 
-<img src="./assets/analog-sync-v3.gif" width="100%" alt="" />
+<a id="whoami"></a>
 
-## `> WHOAMI`
+## `> 00 / WHOAMI`
+
+I’m **CYANEX1702**. I build at the intersection of **generative AI, computer vision, retrieval systems, and native software**. I like understanding the model, but I care just as much about everything around it: interfaces, runtimes, processing pipelines, privacy, and what happens when a system meets the real world.
+
+I’m drawn to software that feels **deliberate, responsive, and useful**—particularly **local-first** tools that don't depend on a cloud round-trip for every action.
+
+<img src="./assets/operator-identity.svg" width="100%" alt="Futuristic personal operator card for CYANEX1702, identifying a systems-minded AI and software builder. An abstract avatar appears in an orbital terminal display." />
 
 ```text
-USER@GITHUB:~$ WHOAMI
-CYANEX1702
+cyanex@node-17.02:~$ whoami --verbose
 
-USER@GITHUB:~$ UNAME -A
-CYANEX1702 17.02 / AI-SYSTEMS / OPEN-SOURCE / MATRIX-ANALOG
-
-USER@GITHUB:~$ CAT /ETC/PROFILE
-NODE      :: CYANEX1702
-CLASS     :: AI / SOFTWARE BUILDER
-FOCUS     :: GENERATIVE_AI | VISION | RAG | LOCAL_AI
-MODE      :: RESEARCH -> PRODUCT
-STATE     :: ONLINE
+HANDLE        :: CYANEX1702
+ROLE          :: AI / SOFTWARE BUILDER
+INTERESTS     :: GENERATIVE AI / COMPUTER VISION / RETRIEVAL
+PLATFORMS     :: DESKTOP / ANDROID / LOCAL RUNTIMES
+MENTAL MODEL  :: UNDERSTAND -> DESIGN -> BUILD -> BREAK -> IMPROVE
+OPERATING MODE:: BUILD BEYOND THE DEMO
 ```
+
+<a id="mindset"></a>
+
+## `> 01 / HOW MY MIND IS WIRED`
+
+I don't see AI, native applications, and data engineering as isolated islands. The part that fascinates me is **connecting them into a single working experience**. A clever model is interesting; a coherent system is what makes it matter.
+
+<img src="./assets/mental-model.svg" width="100%" alt="Visual skills constellation: systems thinking at the center, connected to generative AI, computer vision, retrieval and RAG, local AI, native applications, media and data processing." />
+
+<a id="specs"></a>
+
+## `> 02 / CAT /PROC/OPERATOR/SPECS`
+
+This is my **technical toolkit**, not a list of products. Tools change; the ability to connect them is the constant.
+
+<img src="./assets/operator-spec.svg" width="100%" alt="Three-column technical specification: generative AI, diffusion, computer vision, U2NET, RAG, embeddings, local Whisper, React, TypeScript, Rust, Tauri, Kotlin, Jetpack Compose, Android, Media3, FFmpeg, ChromaDB, SQLite and Python." />
+
+<details>
+<summary><b>↳ EXPAND // FULL TEXT-BASED SPECS</b></summary>
+
+```text
+INTELLIGENCE                    APPLICATIONS
+├── Generative AI               ├── React / TypeScript
+├── Diffusion / inpainting      ├── Rust / Tauri
+├── Computer vision / U2NET     ├── Kotlin / Jetpack Compose
+├── Retrieval / RAG             ├── Android / Media3
+├── Hugging Face / embeddings   └── Native app engineering
+└── Whisper / local inference
+
+PROCESSING & STORAGE            DESIGN PRINCIPLES
+├── Python                      ├── Local-first
+├── FFmpeg                       ├── Privacy-oriented
+├── ChromaDB / vector search    ├── Understandable systems
+├── SQLite                      └── Build beyond the demo
+└── Media / data pipelines
+```
+
+</details>
+
+<a id="principles"></a>
+
+## `> 03 / CAT /ETC/PHILOSOPHY`
+
+My favorite kind of engineering turns intimidating technology into something a person can actually use. The code matters. The **choices behind it** matter more.
+
+<img src="./assets/engineering-principles.svg" width="100%" alt="Three engineering principles: think in systems, design for real use, and build beyond the demo." />
 
 > **THE MODEL IS ONE COMPONENT. THE SYSTEM IS THE THING THAT MATTERS.**
 
-<details open>
-<summary><b>&gt; NEOFETCH</b></summary>
-<br/>
+<a id="signal"></a>
 
-<div align="center">
-<img src="./assets/neofetch.svg" width="100%" alt="Live CYANEX1702 neofetch terminal panel" />
-</div>
-
-</details>
-
-<details>
-<summary><b>&gt; OPEN /ETC/MOTD</b></summary>
-<br/>
-
-```text
-WELCOME TO NODE 17.02
-
-NO CORPORATE-PERSONA PACKAGE DETECTED.
-NO "10X NINJA ROCKSTAR" MODULE INSTALLED.
-
-CURRENT PROCESS:
-    BUILD SYSTEMS THAT LEAVE THE NOTEBOOK,
-    SURVIVE REAL INPUTS,
-    AND REMAIN UNDERSTANDABLE WHEN SOMETHING BREAKS.
-
-CTRL+C IS NOT A STRATEGY.
-```
-
-</details>
-
-<img src="./assets/signal-rack-v3.gif" width="100%" alt="GEN-AI, vision, and RAG signal analyzer" />
-
----
-
-<a id="projects"></a>
-
-## `> LS ./PROJECTS --FEATURED`
-
-<details open>
-<summary><b>[01] OPENFRAME // LOCAL-FIRST AI CREATIVE STUDIO</b></summary>
-<br/>
-
-[![REPOSITORY](https://img.shields.io/badge/REPOSITORY-OPEN-071009?style=flat-square&logo=github&logoColor=7AFF8A)](https://github.com/Cyanex1702/OpenFrame-Open-Source-Desktop-Creative-Studio-AI-Media-Editor)
-![LAST COMMIT](https://img.shields.io/github/last-commit/Cyanex1702/OpenFrame-Open-Source-Desktop-Creative-Studio-AI-Media-Editor?style=flat-square&color=1f8f35&labelColor=071009)
-![STARS](https://img.shields.io/github/stars/Cyanex1702/OpenFrame-Open-Source-Desktop-Creative-Studio-AI-Media-Editor?style=flat-square&color=1f8f35&labelColor=071009)
-
-```text
-TYPE      :: DESKTOP CREATIVE SYSTEM
-AI        :: LOCAL WHISPER TRANSCRIPTION
-MEDIA     :: MULTITRACK + FFMPEG
-STACK     :: REACT / TYPESCRIPT / RUST / TAURI
-DESIGN    :: LOCAL-FIRST / PRIVACY-ORIENTED / NATIVE
-STATE     :: SHIPPING
-```
-
-<details>
-<summary><b>&gt; PSTREE OPENFRAME</b></summary>
-<br/>
-
-```text
-OPENFRAME
-├── UI
-│   ├── MULTITRACK_EDITOR
-│   ├── DESIGN_CANVAS
-│   └── RECOVERY_STATE
-├── AI
-│   └── WHISPER_LOCAL
-├── NATIVE
-│   ├── FFMPEG_PIPELINE
-│   └── FILESYSTEM_IO
-└── RUNTIME
-    ├── TAURI_BRIDGE
-    └── DESKTOP_SHELL
-```
-
-</details>
-</details>
-
-<details>
-<summary><b>[02] OMNI // ANDROID MEDIA RUNTIME</b></summary>
-<br/>
-
-[![REPOSITORY](https://img.shields.io/badge/REPOSITORY-OPEN-071009?style=flat-square&logo=github&logoColor=7AFF8A)](https://github.com/Cyanex1702/Omni)
-
-```text
-TYPE      :: ANDROID MEDIA SYSTEM
-STACK     :: KOTLIN / MEDIA3 / FFMPEG / YT-DLP
-MODE      :: OFFLINE-FIRST
-MODULES   :: PLAYBACK / QUEUES / LYRICS / PIP / DOWNLOADS
-STATE     :: ACTIVE
-```
-</details>
-
-<details>
-<summary><b>[03] VIRTUAL_TRY_ON // GENERATIVE FASHION + VISION</b></summary>
-<br/>
-
-[![REPOSITORY](https://img.shields.io/badge/REPOSITORY-OPEN-071009?style=flat-square&logo=github&logoColor=7AFF8A)](https://github.com/Cyanex1702/Virtual_Try_on_FashionGenAi)
-![STARS](https://img.shields.io/github/stars/Cyanex1702/Virtual_Try_on_FashionGenAi?style=flat-square&color=1f8f35&labelColor=071009)
-![FORKS](https://img.shields.io/github/forks/Cyanex1702/Virtual_Try_on_FashionGenAi?style=flat-square&color=1f8f35&labelColor=071009)
-
-```text
-GEN       :: STABLE DIFFUSION INPAINTING
-VISION    :: U2NET SEGMENTATION
-DOMAIN    :: PERSONALIZED FASHION GENERATION
-SIGNAL    :: COMMUNITY TRACTION
-```
-</details>
-
-<details>
-<summary><b>[04] RAG // RETRIEVAL CONTEXT BUS</b></summary>
-<br/>
-
-[![REPOSITORY](https://img.shields.io/badge/REPOSITORY-OPEN-071009?style=flat-square&logo=github&logoColor=7AFF8A)](https://github.com/Cyanex1702/Retrieval-Augmented-Generation-RAG-Using-Hugging-Face-Embeddings)
-
-```text
-PIPELINE  :: EMBEDDINGS -> VECTOR SEARCH -> CONTEXT -> GENERATION
-STACK     :: HUGGING FACE / CHROMADB / LLMS
-FOCUS     :: SEMANTIC RETRIEVAL / GROUNDED GENERATION
-```
-</details>
-
-<details>
-<summary><b>[05] IMAGE_SENSEI // DATASET ACQUISITION UTILITY</b></summary>
-<br/>
-
-[![REPOSITORY](https://img.shields.io/badge/REPOSITORY-OPEN-071009?style=flat-square&logo=github&logoColor=7AFF8A)](https://github.com/Cyanex1702/Image_Scrapping_Toolkit)
-
-```text
-TYPE      :: MULTITHREADED IMAGE SCRAPER
-FILTERS   :: DUPLICATES / TEXT-HEAVY IMAGES
-OUTPUT    :: NORMALIZED CV-READY DATASETS
-```
-</details>
-
-<details>
-<summary><b>[06] GRIMOIRE // OFFLINE-FIRST ANDROID SYSTEM</b></summary>
-<br/>
-
-[![REPOSITORY](https://img.shields.io/badge/REPOSITORY-OPEN-071009?style=flat-square&logo=github&logoColor=7AFF8A)](https://github.com/Cyanex1702/Grimoire)
-
-```text
-STACK     :: KOTLIN / JETPACK COMPOSE / SQLITE
-FEATURES  :: BUDGETS / REPORTS / EXPORTS / VOICE / BIOMETRICS
-MODE      :: NATIVE + OFFLINE-FIRST
-```
-</details>
-
-<img src="./assets/carrier-sync.gif" width="100%" alt="" />
-
-<a id="stack"></a>
-
-## `> LSHW --CYANEX`
-
-<div align="center">
-<img src="./assets/hardware-inventory.svg" width="100%" alt="CYANEX1702 hardware-style technical stack inventory" />
-</div>
-
-<details>
-<summary><b>&gt; CAT /PROC/STACK/MENTAL_MODEL</b></summary>
-<br/>
-
-```text
-AI / ML
-├── GENERATIVE SYSTEMS
-├── MULTIMODAL WORKFLOWS
-├── COMPUTER VISION
-├── RETRIEVAL / RAG
-└── LOCAL INFERENCE
-
-SOFTWARE
-├── DESKTOP APPLICATIONS
-├── ANDROID
-├── NATIVE MEDIA PROCESSING
-├── OPEN-SOURCE TOOLING
-└── DATA PIPELINES
-
-OPERATING RULE
-└── BUILD BEYOND THE DEMO
-```
-</details>
-
----
-
-<a id="snake"></a>
-
-## `> ./SNAKE.DAEMON --LIVE`
+## `> 04 / SIGNAL STILL ALIVE`
 
 <div align="center">
 
-<img src="./assets/snake-daemon.gif" width="100%" alt="Matrix analog snake daemon animation" />
-
-<br/>
+<img src="./assets/snake-daemon.gif" width="100%" alt="Retro phosphor-green snake roaming across a terminal display" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img alt="Animated GitHub contribution snake" src="./assets/github-snake.svg" width="100%" />
+  <img src="./assets/github-snake.svg" width="100%" alt="Animated GitHub contribution snake, refreshed by a scheduled GitHub Actions workflow" />
 </picture>
 
-<sub>`LOCAL SNAKE.DAEMON + LIVE CONTRIBUTION SNAKE // GENERATED BY GITHUB ACTIONS`</sub>
+<sub>CODE. LEARN. REFACTOR. REPEAT. &nbsp;//&nbsp; CONTRIBUTION TRACE AUTO-UPDATED BY GITHUB ACTIONS</sub>
 
 </div>
-
----
-
-## `> ./MATRIX-MEMORY --CONTRIBUTIONS`
-
-<div align="center">
-<img src="./assets/matrix-contributions.svg" width="100%" alt="Matrix-style live contribution calendar" />
-</div>
-
----
-
-<a id="telemetry"></a>
-
-## `> ./TELEMETRY --LIVE`
-
-<div align="center">
-<img src="./assets/terminal-telemetry.svg" width="100%" alt="Live custom terminal GitHub telemetry" />
-</div>
-
-<details open>
-<summary><b>&gt; CAT /VAR/LOG/LAST_PACKET</b></summary>
-<br/>
-<div align="center">
-<img src="./assets/last-packet.svg" width="100%" alt="Latest public GitHub event packet" />
-</div>
-</details>
-
----
-
-<a id="topology"></a>
-
-## `> NETSTAT --TOPOLOGY`
-
-<div align="center">
-<img src="./assets/system-topology.gif" width="100%" alt="Animated CYANEX1702 system architecture map" />
-</div>
-
-```text
-AI CORE
-├── OPENFRAME     :: LOCAL AI + DESKTOP MEDIA
-├── OMNI          :: ANDROID + NATIVE MEDIA
-├── VISION        :: GENERATIVE VISION / TRY-ON
-├── RAG BUS       :: RETRIEVAL + CONTEXT
-└── DATA          :: SCRAPING + DATASET ENGINEERING
-```
-
----
-
-## `> MAN CYANEX1702`
 
 <details>
-<summary><b>CYANEX1702(1) // USER COMMANDS</b></summary>
-<br/>
+<summary><b>↳ MAN CYANEX1702 // AN OPERATOR'S MANUAL</b></summary>
 
 ```text
 NAME
-    CYANEX1702 - BUILDS QUESTIONABLE AMOUNTS OF SOFTWARE
-                THROUGH TERMINAL-SHAPED INTERFACES.
+    CYANEX1702 - one builder, several technical obsessions.
 
 SYNOPSIS
-    CYANEX1702 [--BUILD] [--BREAK] [--REBUILD] [--SHIP]
+    cyanex1702 [--learn] [--build] [--break] [--refine] [--ship]
 
 DESCRIPTION
-    OPERATES ACROSS GENERATIVE AI, COMPUTER VISION,
-    RETRIEVAL, LOCAL AI, DESKTOP SYSTEMS, AND ANDROID.
+    Lives somewhere between an AI research paper,
+    a native runtime, and an unreasonable number of terminals.
 
 OPTIONS
-    --BUILD
-        TURN AN IDEA INTO A RUNNING SYSTEM.
-
-    --BREAK
-        DISCOVER WHAT THE HAPPY PATH WAS HIDING.
-
-    --REBUILD
-        REMOVE THE PART THAT SHOULD NOT HAVE EXISTED.
-
-    --SHIP
-        RELEASE BEFORE ANOTHER REWRITE BECOMES TEMPTING.
+    --learn     Understand the underlying idea.
+    --build     Make it work outside the notebook.
+    --break     Find the edge cases before someone else does.
+    --refine    Make the next iteration better.
+    --ship      Put something useful into the world.
 
 BUGS
-    PROBABLY.
-
-FILES
-    /DEV/GENERATIVE_AI
-    /DEV/VISION_BUS
-    /VAR/LOG/CYANEX1702
-    /HOME/CYANEX1702/PROJECTS
-
-SEE ALSO
-    GIT(1), PYTHON(1), RUST(1), KOTLIN(1), CAFFEINE(8)
+    Probably. That's why we test.
 ```
 
 </details>
 
----
-
-## `> TAIL -F /VAR/LOG/CYANEX1702/CURRENT.LOG`
-
-```python
-CYANEX1702 = {
-    "AI": [
-        "GENERATIVE SYSTEMS",
-        "MULTIMODAL WORKFLOWS",
-        "COMPUTER VISION",
-        "RAG",
-        "LOCAL AI",
-    ],
-    "SOFTWARE": [
-        "DESKTOP SYSTEMS",
-        "ANDROID",
-        "NATIVE MEDIA PROCESSING",
-        "OPEN-SOURCE TOOLING",
-    ],
-    "RULE": "BUILD BEYOND THE DEMO",
-}
-
-while ONLINE:
-    BUILD()
-    TEST()
-    BREAK_THINGS()
-    IMPROVE()
-    SHIP()
-```
-
 <details>
-<summary><b>&gt; SUDO REVEAL-HIDDEN-MESSAGE</b></summary>
-<br/>
+<summary><b>↳ SUDO REVEAL / SECRET PACKET</b></summary>
 
 ```text
-PERMISSION GRANTED.
+ACCESS GRANTED.
 
-IF YOU OPENED EVERY COLLAPSIBLE PROCESS,
-YOU ARE EXACTLY THE KIND OF PERSON
-THIS PROFILE WAS BUILT FOR.
+YOU DIDN'T COME HERE TO READ ANOTHER BUZZWORD LIST.
+YOU CAME TO SEE HOW SOMEONE THINKS.
 
-SIGNAL-ID  :: 0x1702
-CARRIER    :: STABLE
-TERMINAL   :: STILL ALIVE
+SIGNAL-ID :: 0x1702
+CARRIER   :: STABLE
+TERMINAL  :: STILL ALIVE
 ```
 
 </details>
 
 <div align="center">
 
-<img src="./assets/carrier-sync.gif" width="100%" alt="" />
+<img src="./assets/final-signal.svg" width="100%" alt="The model is one component. The system is the thing that matters." />
 
-```text
-NO CARRIER?  NEVER.
-CYANEX1702 :: TERMINAL STILL ACTIVE
-```
+<br/>
 
-<a href="https://github.com/Cyanex1702?tab=repositories">
-  <img src="https://img.shields.io/badge/%3E_CD_%2FREPOSITORIES-123D1A?style=for-the-badge&logo=github&logoColor=E8FFE9" alt="Explore repositories" />
-</a>
+<sub>CURIOUS WHAT I BUILD? &nbsp;·&nbsp; <a href="https://github.com/Cyanex1702?tab=repositories"><b>THE REPOSITORIES TAB HAS THE DETAILS ↗</b></a></sub>
+
+<br/><br/>
+
+<sub>CYANEX1702 &nbsp;·&nbsp; NODE 17.02 &nbsp;·&nbsp; BUILD BEYOND THE DEMO</sub>
 
 </div>

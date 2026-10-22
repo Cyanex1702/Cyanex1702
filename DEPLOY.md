@@ -27,8 +27,8 @@ This is a drop-in **GitHub profile README** built with animated GIFs and Markdow
 
 - The right-side radar in `crt-boot.gif` now displays your **uploaded winged emblem** instead of the original `C` glyph. The source artwork is `assets/cyanex-winged-emblem.png`; it is preserved in the ZIP.
 - Four locally rendered GIFs drive the main visual experience: `crt-boot.gif`, `whoami-console.gif`, `neural-topology.gif`, and `specs-rack.gif`.
-- Four small original animations add CRT ambience: `packet-bus-v3.gif`, `analog-sync-v3.gif`, `signal-rack-v3.gif`, `carrier-sync.gif`.
-- `snake-daemon.gif` is the local decorative snake; `github-snake*.svg` are the GitHub contribution snake assets, refreshed by a workflow.
+- Three small original animations add CRT ambience: `packet-bus-v3.gif`, `analog-sync-v3.gif`, `carrier-sync.gif`.
+- The local snake daemon and three-channel signal rack were intentionally removed. `github-snake*.svg` are the real GitHub contribution snake assets, refreshed by a workflow.
 - GitHub sanitizes active HTML/JS. The pre-rendered GIF approach is intentional and works on GitHub profile READMEs. The external typing header and shields are optional extras.
 - **No live fictional skill values:** the animated bars in `specs-rack.gif` represent moving channel signal, not scores or proficiency percentages.
 
@@ -37,3 +37,11 @@ This is a drop-in **GitHub profile README** built with animated GIFs and Markdow
 Edit the text under `> 00 / WHOAMI`, the `> 02 / LSHW` skills block, and the operator manual in `README.md`. Image text is baked into GIFs. A reproducible (optional) renderer is in `scripts/render_crt.py`, using Pillow, NumPy, and locally installed Inter and DejaVu Sans Mono fonts. To regenerate the GIFs, run `pip install pillow numpy` then `python scripts/render_crt.py` in an environment with those fonts. The rendered GIFs are already included: you do not need Python just to deploy.
 
 Avoid re-adding project listings here; the native Repositories tab is there when visitors want to explore.
+
+## Live profile hit counter
+
+The header badge now uses **hits.sh** instead of the broken Komarev image URL:
+
+`https://hits.sh/github.com/Cyanex1702.svg?label=TERMINAL%20HITS&style=flat-square&color=lime&labelColor=black`
+
+The counter is a third-party live image. GitHub's Camo proxy can cache or occasionally fail to load external images, so a badge cannot be guaranteed to render 100% of the time. Clicking the badge opens the hit statistics. The new provider starts its own count rather than preserving the old Komarev total.

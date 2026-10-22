@@ -22,7 +22,9 @@ All primary animation is in local GIFs, because GitHub profile READMEs do not ru
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=Cyanex1702&label=TERMINAL+HITS&color=1f8f35&style=flat-square" alt="Profile visit counter" />
+<a href="https://hits.sh/github.com/Cyanex1702/">
+  <img src="https://hits.sh/github.com/Cyanex1702.svg?label=TERMINAL%20HITS&style=flat-square&color=lime&labelColor=black" alt="CYANEX1702 profile hit counter" />
+</a>
 
 </div>
 
@@ -66,7 +68,6 @@ STATE :: STILL BUILDING
 
 **My favorite problems live at the intersections.** An AI model needs context; context needs data; data needs pipelines; those pipelines need a runtime and an interface someone actually wants to use. I care about how those parts work **together**.
 
-<img src="./assets/signal-rack-v3.gif" width="100%" alt="Animated analog oscilloscopes for generative AI, vision and retrieval channels" />
 
 <a id="specs"></a>
 
@@ -98,11 +99,10 @@ DATA & SIGNAL                ENGINEERING BIAS
 
 <a id="trace"></a>
 
-## `> 03 / EXEC ./SNAKE.DAEMON --LIVE`
+## `> 03 / TAIL -F /VAR/LOG/CONTRIBUTIONS`
 
 <div align="center">
 
-<img src="./assets/snake-daemon.gif" width="100%" alt="Animated phosphor green snake running through a Matrix terminal" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />

@@ -1,21 +1,22 @@
-.github/workflows/live-assets.yml	1169
-.github/workflows/snake.yml	1336
-PREVIEW.html	14903
-README.md	11100
-SETUP.md	1486
-assets/analog-sync-v3.gif	21463
-assets/carrier-sync.gif	9657
-assets/cyanex-terminal-v3.gif	2506385
-assets/github-snake-dark.svg	839
-assets/github-snake.svg	839
-assets/hardware-inventory.svg	1936
-assets/last-packet.svg	1378
-assets/matrix-contributions.svg	26134
-assets/neofetch.svg	1760
-assets/packet-bus-v3.gif	172973
-assets/signal-rack-v3.gif	92280
-assets/snake-daemon.gif	149358
-assets/system-topology.gif	209009
-assets/terminal-telemetry.svg	1440
-scripts/__pycache__/generate_live_assets.cpython-313.pyc	14495
-scripts/generate_live_assets.py	9169
+CYANEX1702 / SIGNAL NOIR / PERSONAL EDITION
+
+README.md                 GitHub profile about CYANEX1702 only
+README-STATIC.md          Alternative hero with reduced motion
+PREVIEW.html              Local browser preview (not GitHub production output)
+SETUP.md                  Deployment / editing instructions
+assets/hero-signal.gif      Animated retro terminal hero
+assets/hero-signal-poster.png Static hero poster
+assets/operator-identity.svg Original personal operator art
+assets/mental-model.svg     Original illustration of skill intersections
+assets/operator-spec.svg    Personal technical specifications
+assets/engineering-principles.svg Three-part engineering philosophy panel
+assets/final-signal.svg     Closing statement artwork
+assets/snake-daemon.gif     Retro terminal contribution animation
+assets/github-snake.svg     Contribution animation — light variant
+assets/github-snake-dark.svg Contribution animation — dark variant
+.github/workflows/snake.yml Scheduled contribution snake generator
+scripts/build_identity_art.py Regenerate original vector identity panels
+
+assets/nav-*.svg           Self-hosted terminal navigation tabs
+
+No project artwork or individual project links are included.
